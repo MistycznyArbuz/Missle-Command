@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6842d6edb9ce72340a18777a72dbb6ef, type: 3}
+  m_Name: Data 3
+  m_EditorClassIdentifier: 
+  player: {r: 0.1254704, g: 1, b: 0, a: 1}
+  enemy: {r: 1, g: 0, b: 0.4354124, a: 1}
+  buildings: {r: 1, g: 0.63109165, b: 0, a: 1}
+  rocketLaunchers: {r: 1, g: 0.2036325, b: 0, a: 1}
+  ground: {r: 0.5754717, g: 0, b: 0, a: 1}
+  background: {r: 0.18867922, g: 0.18867922, b: 0.18867922, a: 1}
