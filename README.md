@@ -19,14 +19,14 @@
     <a href="https://github.com/MistycznyArbuz/Arkanoid/issues/new?labels=bug&template=Bug-report---.md">Report Issue</a>
   </p>
 
-  <h2 align="left"> About </h2>
+  <h2 align="center"> About </h2>
 
   <p align="center">
     This is one of my first commerial projects, created <b> ~2 years ago. </b> 
     <br /> It was published on Google Play store, but I decided to remove it from there and publish on GitHub!
   </p>
 
-  <h2 align="left"> Gameplay </h2>
+  <h2 align="center"> Gameplay </h2>
 
   <img src="images/Game.gif" alt="Gameplay" width="640" height="360">
 
